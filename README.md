@@ -6,7 +6,7 @@ Through my education and professional journey, I have developed a solid foundati
 
 In my free time, I enjoy exploring new tools, techniques, and methodologies in data science to continuously expand my skill set. I am motivated by the challenge of uncovering meaningful insights from data and translating them into impactful solutions.
 
-Feel free to browse through my projects and see how I am leveraging data to solve real-world problems. My CV is also available for reference.
+Feel free to browse through my projects and see how I am leveraging data to solve real-world problems. [My CV](https://github.com/MoElsamani/Data_Analysis_Portfolio/blob/main/Mohamed%20Elfaki%20CV-en.pdf) is also available for reference.
 
 
 This repository is a curated space where I showcase my skills, share projects and track my progress in Data Analytics / Data Science related topics.
