@@ -10,3 +10,33 @@ Feel free to browse through my projects and see how I am leveraging data to solv
 
 
 This repository is a curated space where I showcase my skills, share projects and track my progress in Data Analytics / Data Science related topics.
+
+## Table of Content
+
+  * [About](https://github.com/MoElsamani/Data_Analysis_Portfolio/edit/main/README.md#about)
+
+  * [Portfolio Projects](https://github.com/MoElsamani/Data_Analysis_Portfolio/edit/main/README.md#portfolio-projects)
+
+  * Python
+    * test
+    
+  * SQL
+
+  * Tableau
+
+  * Power BI
+  
+  * [Education](https://github.com/MoElsamani/Data_Analysis_Portfolio/edit/main/README.md#education)
+  
+  * [Contact](https://github.com/MoElsamani/Data_Analysis_Portfolio/edit/main/README.md#contact)
+
+## Portfolio Projects
+
+## Education
+
+  * Politecnico di Torino, Turin (Italy): Master of Science - MS, Engineering Management 2019 - 2022
+  * Univerity of Khartoum, Khartoum (Sudan): Bachelor's degree, Mechanical Engineering 2010 - 2015
+
+## Contact
+
+  * Linkedin: [@mohamed-elfaki](https://www.linkedin.com/in/mohamed-elfaki/)
