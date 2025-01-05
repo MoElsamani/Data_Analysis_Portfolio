@@ -14,7 +14,6 @@ This repository is a curated space where I showcase my skills, share projects an
 ## Table of Content
 
   * [About](https://github.com/MoElsamani/Data_Analysis_Portfolio/edit/main/README.md#about)
-  * @About
 
   * [Portfolio Projects](https://github.com/MoElsamani/Data_Analysis_Portfolio/edit/main/README.md#portfolio-projects)
 
